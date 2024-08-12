@@ -5,9 +5,11 @@
 
 
 <h2 align='left'> Sobre mi 💬</h2>
-<p>▪️Future Web Developer 🤔</p>
-<p>▪️I have studying course of web development from <strong>Conquer Blocks</strong> ⚡</p>
-<p>▪️I speak Russian and Spain👀</p>
+<p>▪️ Future Web Developer 🤔</p>
+<p>▪️ I have studying course of <strong>Web Development 👨‍💻</strong> from <strong>Conquer Blocks</strong> ⚡</p>
+<p>▪️ I speak <strong>Russian</strong> and <strong>Spanish👀/strong></p>
+<p>▪️ I study <strong>Web Developmnet</strong>at the Institute of Catalonia 👨‍🎓</p>
+<p>▪️ I'm 2003 🦂/p>
 
 <!--
 **al3-rom/al3-rom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
