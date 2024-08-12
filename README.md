@@ -5,7 +5,7 @@
 
 
 <h2 align='left'> Sobre mi 💬</h2>
-<p>▪️ Future Web Developer 🤔</p>
+<p>▪️ Future <strong>Web Developer 🤔</strong></p>
 <p>▪️ I study course of <strong>Web Development 👨‍💻</strong> from <strong>Conquer Blocks</strong> ⚡</p>
 <p>▪️ I speak <strong>Russian</strong> and <strong>Spanish👀</strong></p>
 <p>▪️ I study <strong>Web Development</strong> at the <strong>Institute of Catalonia</strong> 👨‍🎓</p>
