@@ -1,7 +1,7 @@
 <div aling='center'>
   <h1 align='center'>Hola, soy Alejandro!👋</h1>
 </div>
-<img src="file:///C:/Users/Alejandro/Downloads/alejandro-build_64782063.png">
+
 
 
 <!--
