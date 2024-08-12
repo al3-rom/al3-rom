@@ -5,6 +5,8 @@
 
 
 <h2 align='left'> Sobre mi 💬</h2>
+<p>Future Web Developer 🤔</p>
+<p>I have studying course of web development from <strong>Conquer Blocks</strong></p>
 
 <!--
 **al3-rom/al3-rom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
