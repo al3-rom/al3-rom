@@ -1,10 +1,10 @@
 <div aling='center'>
-  <h1 align='center'>Hola, soy Alejandro!👋</h1>
+  <h1 align='center'>Hello, i'm Alejandro!👋</h1>
 </div>
 <img src="https://github.com/al3-rom/al3-rom/blob/main/alejandro-build_64782063.png">
 
 
-<h2 align='left'> Sobre mi 💬</h2>
+<h2 align='left'> About me 💬</h2>
 <p>▪️  🤔Future <strong>Web Developer</strong></p>
 <p>▪️  ⚡I study course of <strong> Web Development</strong> from <strong><a href="https://www.conquerblocks.com/">Conquer Blocks</a></strong></p>
 <p>▪️  👀I speak <strong>Russian</strong> and <strong>Spanish</strong></p>
