@@ -9,7 +9,7 @@
 <p>▪️  ⚡I study course of <strong> Blockchain Development  </strong> from <strong><a href="https://www.conquerblocks.com/">Conquer Blocks</a></strong></p>
 <p>▪️  👀I speak <strong>Russian</strong>, <strong>Spanish</strong> and <strong>English</strong></p>
 <p>▪️  👨‍🎓I study <strong>Web Development</strong> at the <strong>Institute of Catalonia</strong> </p>
-<p>▪️  🦂I'm <strong>2003</strong></p>
+
 
 <!--
 **al3-rom/al3-rom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
