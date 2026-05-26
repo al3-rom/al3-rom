@@ -5,11 +5,8 @@
 
 
 <h2 align='left'> About me 💬</h2>
-<p>▪️  🤔Future <strong>Web Developer</strong></p>
-<p>▪️  👨‍🎓I study <strong>Web Development</strong> at the <strong>Institute of Catalonia</strong> </p>
+<p>▪️  🤔<strong>Web Developer</strong></p>
 <p>▪️  👀I speak <strong>Russian</strong>, <strong>Spanish</strong> and <strong>English</strong></p>
-<p>▪️  ⚡I study course of <strong> Blockchain Development  </strong> from <strong><a href="https://www.conquerblocks.com/">Conquer Blocks</a></strong></p>
-
   
 
 
